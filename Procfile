@@ -1,1 +1,1 @@
-web: gunicorn my_model.wsgi
+web: gunicorn A2SL.wsgi
