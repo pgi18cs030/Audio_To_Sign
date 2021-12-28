@@ -13,3 +13,4 @@ django-heroku
 whitenoise==3.2
 gunicorn==20.1.0
 django-utils-six==2.0
+six==1.16.0
