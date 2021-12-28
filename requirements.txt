@@ -9,3 +9,4 @@ regex==2021.11.10
 sqlparse==0.4.2
 tqdm==4.62.3
 tzdata==2021.5
+django-heroku
