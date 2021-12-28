@@ -40,6 +40,8 @@ INSTALLED_APPS = [
     'A2SL'
 ]
 
+DISABLE_COLLECTSTATIC=1
+
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
